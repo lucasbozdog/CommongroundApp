@@ -62,7 +62,7 @@ Before running the project, install:
 Create a database (example):
 
 ```
-commonground
+cg_app
 ```
 
 Run this SQL script:
