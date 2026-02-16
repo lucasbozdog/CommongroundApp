@@ -200,4 +200,11 @@ Each controller manages UI logic and user interaction.
 - 💬 Chat system  
 - 🌐 Web-based version (Spring Boot)  
 - 📊 Advanced matching algorithm  
-- 🖼 Real avatar uploads  
+- 🖼 Real avatar uploads
+
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-02-16 194106" src="https://github.com/user-attachments/assets/0fd74018-50f1-4e21-bde0-b1f2a702a0e1" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-16 195801" src="https://github.com/user-attachments/assets/de2a966d-40b9-494f-8129-d059efbc0026" />
+
+
